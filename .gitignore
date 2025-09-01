@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+.venv/
+
+# Pygame / imagens / sons não versionáveis
+*.wav
+*.mp3
+*.ogg
+*.png
+*.jpg
+*.jpeg
+
+# Arquivos de IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
